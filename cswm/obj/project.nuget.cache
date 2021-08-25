@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WhUrNDVoDbJk/OA2UwkWObLkzgC/TKG1zCS/9vqWVoTCpzovzw/mxOiKO2lSUH2whRp9lAAvDztibs1aCgWREA==",
+  "success": true,
+  "projectFilePath": "/home/nra1/Documents/Projects/cswm/cswm/cswm.csproj",
+  "expectedPackageFiles": [
+    "/home/nra1/.nuget/packages/x11/1.0.6/x11.1.0.6.nupkg.sha512",
+    "/home/nra1/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

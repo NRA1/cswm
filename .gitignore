@@ -1,0 +1,6 @@
+# user files
+*.DotSettings.user
+
+# IDE files
+.idea
+
